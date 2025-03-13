@@ -4,7 +4,7 @@
 
 #include <thread>
 #include <chrono>
-
+// heyo added a comment isn't that fucken neat
 void theGame(int&, int&);
 
 void moveHare(int& harePos){
